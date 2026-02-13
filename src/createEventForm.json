@@ -1,0 +1,11 @@
+{
+  "eventTypes": [
+    "Wedding", "Birthday", "Corporate", "Party", "Anniversary", "Graduation", "Baby Shower", "Engagement"
+  ],
+  "guestRanges": [
+    "Less than 50", "50-100", "100-200", "200-500", "500+"
+  ],
+  "budgetRanges": [
+    "₦100k - ₦500k", "₦500k - ₦1M", "₦1M - ₦2M", "₦2M - ₦5M", "₦5M+"
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Wedding",
+    "icon": "💍",
+    "description": "Your dream wedding, perfectly planned",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&h=500&fit=crop",
+    "color": "from-pink-500 to-rose-500"
+  },
+  {
+    "id": 2,
+    "title": "Birthday",
+    "icon": "🎂",
+    "description": "Celebrate another year in style",
+    "image": "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=1200&h=500&fit=crop",
+    "color": "from-purple-500 to-indigo-500"
+  },
+  {
+    "id": 3,
+    "title": "Corporate",
+    "icon": "💼",
+    "description": "Professional events that impress",
+    "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=500&fit=crop",
+    "color": "from-blue-500 to-cyan-500"
+  },
+  {
+    "id": 4,
+    "title": "Party",
+    "icon": "🎉",
+    "description": "Fun gatherings and celebrations",
+    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a0c3?w=1200&h=500&fit=crop",
+    "color": "from-yellow-500 to-orange-500"
+  },
+  {
+    "id": 5,
+    "title": "Anniversary",
+    "icon": "💕",
+    "description": "Milestone moments to remember",
+    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=1200&h=500&fit=crop",
+    "color": "from-red-500 to-pink-500"
+  },
+  {
+    "id": 6,
+    "title": "Graduation",
+    "icon": "🎓",
+    "description": "Honor academic achievements",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=500&fit=crop",
+    "color": "from-green-500 to-emerald-500"
+  }
+]

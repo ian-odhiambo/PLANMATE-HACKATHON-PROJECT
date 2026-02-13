@@ -1,0 +1,338 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "category": "Food, drinks, cake makers",
+      "icon": "🍽️",
+      "description": "Catering, beverages, custom cakes",
+      "slug": "food-drinks-cakes",
+      "providers": [
+        {
+          "id": 101,
+          "name": "Delicious Bites Catering",
+          "image": "https://images.unsplash.com/photo-1555244162-803834f70033?w=800&h=400&fit=crop",
+          "rating": 4.8,
+          "services": ["Wedding catering", "Corporate events", "Birthday parties", "Buffet setup"],
+          "pricing": "$$ - $$$",
+          "priceRange": "₦50,000 - ₦500,000",
+          "contact": {
+            "phone": "+234 801 234 5678",
+            "whatsapp": "+234 801 234 5678",
+            "email": "hello@deliciousbites.ng",
+            "website": "www.deliciousbites.ng"
+          },
+          "location": "Lagos, Nigeria",
+          "yearsExperience": 8,
+          "featured": true
+        },
+        {
+          "id": 102,
+          "name": "Sweet Tooth Bakery",
+          "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=400&fit=crop",
+          "rating": 4.9,
+          "services": ["Custom cakes", "Cupcakes", "Dessert tables", "Pastries"],
+          "pricing": "$$",
+          "priceRange": "₦30,000 - ₦200,000",
+          "contact": {
+            "phone": "+234 802 345 6789",
+            "whatsapp": "+234 802 345 6789",
+            "email": "orders@sweettooth.ng"
+          },
+          "location": "Abuja, Nigeria",
+          "yearsExperience": 5,
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Photography",
+      "icon": "📸",
+      "description": "Photo & video services",
+      "slug": "photography",
+      "providers": [
+        {
+          "id": 201,
+          "name": "DreamCapture Studios",
+          "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=400&fit=crop",
+          "rating": 4.9,
+          "services": ["Wedding photography", "Pre-wedding shoots", "Event coverage", "Videography"],
+          "pricing": "$$$",
+          "priceRange": "₦150,000 - ₦800,000",
+          "contact": {
+            "phone": "+234 803 456 7890",
+            "whatsapp": "+234 803 456 7890",
+            "email": "info@dreamcapture.ng",
+            "instagram": "@dreamcapture_ng"
+          },
+          "location": "Lagos, Nigeria",
+          "yearsExperience": 10,
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Venues",
+      "icon": "🏛️",
+      "description": "Event spaces & locations",
+      "slug": "venues",
+      "providers": [
+        {
+          "id": 301,
+          "name": "Grand Palm Events",
+          "image": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&h=400&fit=crop",
+          "rating": 4.7,
+          "services": ["Wedding venues", "Conference halls", "Garden ceremonies", "Indoor/outdoor"],
+          "pricing": "$$$ - $$$$",
+          "priceRange": "₦300,000 - ₦2,000,000",
+          "contact": {
+            "phone": "+234 804 567 8901",
+            "whatsapp": "+234 804 567 8901",
+            "email": "bookings@grandpalm.ng"
+          },
+          "location": "Lagos, Nigeria",
+          "yearsExperience": 15,
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Planning",
+      "icon": "📋",
+      "description": "Event coordination",
+      "slug": "planning",
+      "providers": [
+        {
+          "id": 401,
+          "name": "Perfect Plan Events",
+          "image": "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?w=800&h=400&fit=crop",
+          "rating": 4.9,
+          "services": ["Full event planning", "Day-of coordination", "Vendor management", "Budget planning"],
+          "pricing": "$$$",
+          "priceRange": "₦200,000 - ₦1,000,000",
+          "contact": {
+            "phone": "+234 805 678 9012",
+            "whatsapp": "+234 805 678 9012",
+            "email": "hello@perfectplan.ng"
+          },
+          "location": "Abuja, Nigeria",
+          "yearsExperience": 7,
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Transportation",
+      "icon": "🚗",
+      "description": "Rentals & logistics",
+      "slug": "transportation",
+      "providers": [
+        {
+          "id": 501,
+          "name": "Luxury Rides NG",
+          "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=400&fit=crop",
+          "rating": 4.6,
+          "services": ["Luxury cars", "Buses", "Guest shuttles", "Wedding cars"],
+          "pricing": "$$ - $$$",
+          "priceRange": "₦80,000 - ₦400,000",
+          "contact": {
+            "phone": "+234 806 789 0123",
+            "whatsapp": "+234 806 789 0123",
+            "email": "rentals@luxuryrides.ng"
+          },
+          "location": "Lagos, Nigeria",
+          "yearsExperience": 4,
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Equipment",
+      "icon": "🎵",
+      "description": "Rentals & supplies",
+      "slug": "equipment",
+      "providers": [
+        {
+          "id": 601,
+          "name": "Pro Sound & Lights",
+          "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800&h=400&fit=crop",
+          "rating": 4.7,
+          "services": ["Sound systems", "Lighting", "Stages", "LED screens"],
+          "pricing": "$$ - $$$",
+          "priceRange": "₦100,000 - ₦600,000",
+          "contact": {
+            "phone": "+234 807 890 1234",
+            "whatsapp": "+234 807 890 1234",
+            "email": "info@prosound.ng"
+          },
+          "location": "Lagos, Nigeria",
+          "yearsExperience": 12,
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Decoration",
+      "icon": "🎨",
+      "description": "Event styling & decor",
+      "slug": "decoration",
+      "providers": [
+        {
+          "id": 701,
+          "name": "Elegant Events Decor",
+          "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=400&fit=crop",
+          "rating": 4.8,
+          "services": ["Floral arrangements", "Table settings", "Backdrops", "Themed decor"],
+          "pricing": "$$ - $$$",
+          "priceRange": "₦120,000 - ₦550,000",
+          "contact": {
+            "phone": "+234 808 901 2345",
+            "whatsapp": "+234 808 901 2345",
+            "email": "decor@elegantevents.ng",
+            "instagram": "@elegantevents_ng"
+          },
+          "location": "Abuja, Nigeria",
+          "yearsExperience": 6,
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Entertainment",
+      "icon": "🎵",
+      "description": "DJs, bands, MCs",
+      "slug": "entertainment",
+      "providers": [
+        {
+          "id": 801,
+          "name": "Melody Beats Entertainment",
+          "image": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=800&h=400&fit=crop",
+          "rating": 4.8,
+          "services": ["DJ services", "Live bands", "MCs", "Karaoke"],
+          "pricing": "$$ - $$$",
+          "priceRange": "₦80,000 - ₦350,000",
+          "contact": {
+            "phone": "+234 809 012 3456",
+            "whatsapp": "+234 809 012 3456",
+            "email": "bookings@melodybeats.ng"
+          },
+          "location": "Lagos, Nigeria",
+          "yearsExperience": 9,
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Beauty",
+      "icon": "💄",
+      "description": "Makeup & hair",
+      "slug": "beauty",
+      "providers": [
+        {
+          "id": 901,
+          "name": "Glamour Touch",
+          "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=800&h=400&fit=crop",
+          "rating": 4.9,
+          "services": ["Bridal makeup", "Hairstyling", "Facials", "Group bookings"],
+          "pricing": "$$",
+          "priceRange": "₦40,000 - ₦150,000",
+          "contact": {
+            "phone": "+234 810 123 4567",
+            "whatsapp": "+234 810 123 4567",
+            "email": "bookings@glamourtouch.ng",
+            "instagram": "@glamourtouch_ng"
+          },
+          "location": "Lagos, Nigeria",
+          "yearsExperience": 5,
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Fashion",
+      "icon": "👗",
+      "description": "Attire & accessories",
+      "slug": "fashion",
+      "providers": [
+        {
+          "id": 1001,
+          "name": "Bridal Couture NG",
+          "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800&h=400&fit=crop",
+          "rating": 4.7,
+          "services": ["Wedding gowns", "Traditional attire", "Accessories", "Bridal party"],
+          "pricing": "$$$",
+          "priceRange": "₦150,000 - ₦800,000",
+          "contact": {
+            "phone": "+234 811 234 5678",
+            "whatsapp": "+234 811 234 5678",
+            "email": "hello@bridalcouture.ng",
+            "instagram": "@bridalcouture_ng"
+          },
+          "location": "Lagos, Nigeria",
+          "yearsExperience": 11,
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "category": "Security",
+      "icon": "🛡️",
+      "description": "Event security",
+      "slug": "security",
+      "providers": [
+        {
+          "id": 1101,
+          "name": "SecureGuard Services",
+          "image": "https://images.unsplash.com/photo-1557597774-9d2736059fa9?w=800&h=400&fit=crop",
+          "rating": 4.6,
+          "services": ["VIP protection", "Crowd control", "Baggage check", "24/7 security"],
+          "pricing": "$$",
+          "priceRange": "₦60,000 - ₦250,000",
+          "contact": {
+            "phone": "+234 812 345 6789",
+            "whatsapp": "+234 812 345 6789",
+            "email": "info@secureguard.ng"
+          },
+          "location": "Lagos, Nigeria",
+          "yearsExperience": 7,
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Other",
+      "icon": "✨",
+      "description": "Unique services",
+      "slug": "other",
+      "providers": [
+        {
+          "id": 1201,
+          "name": "Unique Events Services",
+          "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&h=400&fit=crop",
+          "rating": 4.5,
+          "services": ["Party rentals", "Photo booths", "Face painting", "Balloon artists"],
+          "pricing": "$ - $$",
+          "priceRange": "₦20,000 - ₦100,000",
+          "contact": {
+            "phone": "+234 813 456 7890",
+            "whatsapp": "+234 813 456 7890",
+            "email": "hello@uniqueevents.ng"
+          },
+          "location": "Abuja, Nigeria",
+          "yearsExperience": 3,
+          "featured": false
+        }
+      ]
+    }
+  ]
+}

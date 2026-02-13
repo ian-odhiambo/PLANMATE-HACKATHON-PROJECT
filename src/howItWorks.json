@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "step": "01",
+    "title": "Create Your Event",
+    "description": "Tell us about your event - the type, date, location, and estimated guest count",
+    "icon": "📝",
+    "color": "from-blue-500 to-cyan-500",
+    "slug": "create-event"
+  },
+  {
+    "id": 2,
+    "step": "02",
+    "title": "Browse & Compare Vendors",
+    "description": "Explore our curated selection of verified vendors, compare prices, and read reviews",
+    "icon": "🔍",
+    "color": "from-purple-500 to-pink-500",
+    "slug": "browse-vendors"
+  },
+  {
+    "id": 3,
+    "step": "03",
+    "title": "Book Your Favorites",
+    "description": "Chat with vendors, get quotes, and book the ones that match your vision",
+    "icon": "📅",
+    "color": "from-green-500 to-emerald-500",
+    "slug": "book-favorites"
+  },
+  {
+    "id": 4,
+    "step": "04",
+    "title": "Manage Everything",
+    "description": "Track bookings, payments, and communicate with vendors in one place",
+    "icon": "📊",
+    "color": "from-orange-500 to-red-500",
+    "slug": "manage-everything"
+  }
+]

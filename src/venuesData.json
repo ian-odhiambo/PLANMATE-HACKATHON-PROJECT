@@ -1,0 +1,164 @@
+[
+  {
+    "id": 101,
+    "name": "Grand Palm Events Center",
+    "category": "Wedding",
+    "images": [
+      "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=800&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=500&fit=crop"
+    ],
+    "owner": {
+      "name": "Amara Okonkwo",
+      "profileImage": "https://randomuser.me/api/portraits/women/44.jpg",
+      "phone": "+234 801 234 5678",
+      "whatsapp": "+234 801 234 5678",
+      "email": "amara@grandpalm.ng",
+      "since": "2018"
+    },
+    "location": "Victoria Island, Lagos",
+    "capacity": "500 guests",
+    "priceRange": "₦500,000 - ₦2,500,000",
+    "rating": 4.9,
+    "amenities": ["Parking", "Catering", "Sound System", "Air Conditioning", "Bridal Suite"],
+    "description": "Luxury event center with modern facilities and ocean view"
+  },
+  {
+    "id": 102,
+    "name": "Sunset Garden Resort",
+    "category": "Wedding",
+    "images": [
+      "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=800&h=500&fit=crop"
+    ],
+    "owner": {
+      "name": "Chidi Eze",
+      "profileImage": "https://randomuser.me/api/portraits/men/32.jpg",
+      "phone": "+234 802 345 6789",
+      "whatsapp": "+234 802 345 6789",
+      "email": "chidi@sunsetgarden.ng",
+      "since": "2019"
+    },
+    "location": "Ikeja, Lagos",
+    "capacity": "300 guests",
+    "priceRange": "₦300,000 - ₦1,200,000",
+    "rating": 4.7,
+    "amenities": ["Garden", "Parking", "Catering", "Tents", "Generator"],
+    "description": "Beautiful garden venue perfect for outdoor ceremonies"
+  },
+  {
+    "id": 103,
+    "name": "Golden Pearl Hall",
+    "category": "Birthday",
+    "images": [
+      "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=800&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a0c3?w=800&h=500&fit=crop"
+    ],
+    "owner": {
+      "name": "Funmi Adebayo",
+      "profileImage": "https://randomuser.me/api/portraits/women/68.jpg",
+      "phone": "+234 803 456 7890",
+      "whatsapp": "+234 803 456 7890",
+      "email": "funmi@goldenpearl.ng",
+      "since": "2020"
+    },
+    "location": "Lekki, Lagos",
+    "capacity": "200 guests",
+    "priceRange": "₦200,000 - ₦800,000",
+    "rating": 4.6,
+    "amenities": ["DJ Booth", "Bar", "Dance Floor", "AC", "Security"],
+    "description": "Modern hall perfect for birthday parties and celebrations"
+  },
+  {
+    "id": 104,
+    "name": "Corporate Hub Conference",
+    "category": "Corporate",
+    "images": [
+      "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=800&h=500&fit=crop"
+    ],
+    "owner": {
+      "name": "Tunde Bakare",
+      "profileImage": "https://randomuser.me/api/portraits/men/75.jpg",
+      "phone": "+234 804 567 8901",
+      "whatsapp": "+234 804 567 8901",
+      "email": "tunde@corporatehub.ng",
+      "since": "2017"
+    },
+    "location": "Ikoyi, Lagos",
+    "capacity": "150 guests",
+    "priceRange": "₦250,000 - ₦950,000",
+    "rating": 4.8,
+    "amenities": ["Projector", "WiFi", "Conference Table", "Microphones", "Catering"],
+    "description": "Professional conference center with full AV equipment"
+  },
+  {
+    "id": 105,
+    "name": "Club Vibe Lounge",
+    "category": "Party",
+    "images": [
+      "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a0c3?w=800&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&h=500&fit=crop"
+    ],
+    "owner": {
+      "name": "Ifeanyi Okafor",
+      "profileImage": "https://randomuser.me/api/portraits/men/22.jpg",
+      "phone": "+234 805 678 9012",
+      "whatsapp": "+234 805 678 9012",
+      "email": "ifeanyi@clubvibe.ng",
+      "since": "2021"
+    },
+    "location": "Surulere, Lagos",
+    "capacity": "250 guests",
+    "priceRange": "₦150,000 - ₦600,000",
+    "rating": 4.5,
+    "amenities": ["DJ", "Bar", "Light Show", "VIP Area", "Parking"],
+    "description": "Trendy lounge perfect for parties and night events"
+  },
+  {
+    "id": 106,
+    "name": "Milestone Gardens",
+    "category": "Anniversary",
+    "images": [
+      "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=800&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=500&fit=crop"
+    ],
+    "owner": {
+      "name": "Ngozi Nnamdi",
+      "profileImage": "https://randomuser.me/api/portraits/women/90.jpg",
+      "phone": "+234 806 789 0123",
+      "whatsapp": "+234 806 789 0123",
+      "email": "ngozi@milestone.ng",
+      "since": "2016"
+    },
+    "location": "Ajah, Lagos",
+    "capacity": "180 guests",
+    "priceRange": "₦180,000 - ₦700,000",
+    "rating": 4.7,
+    "amenities": ["Garden", "Photo Spots", "Catering", "Tents", "Decor"],
+    "description": "Romantic garden venue for anniversary celebrations"
+  },
+  {
+    "id": 107,
+    "name": "Graduation Square",
+    "category": "Graduation",
+    "images": [
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=800&h=500&fit=crop"
+    ],
+    "owner": {
+      "name": "Paul Michael",
+      "profileImage": "https://randomuser.me/api/portraits/men/52.jpg",
+      "phone": "+234 807 890 1234",
+      "whatsapp": "+234 807 890 1234",
+      "email": "paul@gradsquare.ng",
+      "since": "2022"
+    },
+    "location": "Yaba, Lagos",
+    "capacity": "300 guests",
+    "priceRange": "₦200,000 - ₦750,000",
+    "rating": 4.6,
+    "amenities": ["Stage", "Sound System", "Photo Booth", "Catering", "Parking"],
+    "description": "Perfect venue for graduation parties and ceremonies"
+  }
+]

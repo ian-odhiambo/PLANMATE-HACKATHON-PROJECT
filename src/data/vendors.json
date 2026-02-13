@@ -1,0 +1,35 @@
+{
+  "categories": [
+    {
+      "slug": "catering",
+      "title": "Catering",
+      "description": "Food, drinks, cake makers",
+      "image": "https://via.placeholder.com/360x200?text=Catering",
+      "packages": [
+        { "name": "Affordable", "price": "$300" },
+        { "name": "Standard", "price": "$700" },
+        { "name": "Premium", "price": "$1500" }
+      ],
+      "vendors": [
+        { "name": "Tasty Bites", "price": "$350", "whatsapp": "+1234567890", "image": "https://via.placeholder.com/120?text=Tasty" },
+        { "name": "PartyPlates", "price": "$450", "whatsapp": "+1987654321", "image": "https://via.placeholder.com/120?text=Party" },
+        { "name": "GourmetCo", "price": "$900", "whatsapp": "+1222333444", "image": "https://via.placeholder.com/120?text=Gourmet" }
+      ]
+    },
+    {
+      "slug": "photography",
+      "title": "Photography",
+      "description": "Photo & video services",
+      "image": "https://via.placeholder.com/360x200?text=Photography",
+      "packages": [
+        { "name": "Shooter", "price": "$200" },
+        { "name": "Pro", "price": "$600" },
+        { "name": "Studio", "price": "$1200" }
+      ],
+      "vendors": [
+        { "name": "FocusStudio", "price": "$500", "whatsapp": "+1555123456", "image": "https://via.placeholder.com/120?text=Focus" },
+        { "name": "MemoriesCam", "price": "$750", "whatsapp": "+1555987654", "image": "https://via.placeholder.com/120?text=Memories" }
+      ]
+    }
+  ]
+}
