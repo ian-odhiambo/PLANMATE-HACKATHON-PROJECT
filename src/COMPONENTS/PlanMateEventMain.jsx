@@ -7,6 +7,7 @@ import CelebrationCarousel from './CelebrationCarousel';
 import VenueCards from './VenuCards';
 import CreateEventForm from './CreateEventForm';
 import ManageDashboard from './ManageDashboard';
+import CustomEvent from './CustomEvent';
 
 const PlanmateEventsMain = () => {
   const [selectedCategory, setSelectedCategory] = useState(null);
@@ -167,6 +168,11 @@ const PlanmateEventsMain = () => {
   }
 
   if (selectedCategory) {
+    // Handle Custom Event separately
+    if (selectedCategory.title === 'Custom') {
+      return <CustomEvent onBack={handleBack} />;
+    }
+
     return (
       <div className="bg-gray-50 min-h-screen py-12 px-6">
         <div className="max-w-7xl mx-auto">

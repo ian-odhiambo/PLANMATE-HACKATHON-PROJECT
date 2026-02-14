@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   return (
-    <nav className="bg-amber-500 text-white px-6 py-4">
+    <nav className="bg-amber-500 text-black px-6 py-4 font-bold">
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         {/* section with logo and tagline */}
         <div className="flex items-center gap-3">
@@ -19,10 +19,10 @@ const Navbar = () => {
 
         {/* navigation to the different pages */}
         <div className="flex items-center gap-8">
-          <Link to="/" className="hover:underline underline-offset-4 font-medium">home</Link>
-          <Link to="/planmate-event" className="hover:underline underline-offset-4 font-medium">planmate event</Link>
-          <Link to="/service-providers" className="hover:underline underline-offset-4 font-medium">service providers</Link>
-          <Link to="/about" className="hover:underline underline-offset-4 font-medium">about</Link>
+          <Link to="/" className="hover:underline underline-offset-4 font-medium">HOME</Link>
+          <Link to="/planmate-event" className="hover:underline underline-offset-4 font-medium">PLANMATE EVENT</Link>
+          <Link to="/service-providers" className="hover:underline underline-offset-4 font-medium">SERVICES PROVIDER</Link>
+          <Link to="/about" className="hover:underline underline-offset-4 font-medium">ABOUT</Link>
         </div>
       </div>
     </nav>

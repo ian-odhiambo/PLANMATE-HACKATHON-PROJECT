@@ -24,6 +24,20 @@ const ServiceProviderCards = ({ providers, category }) => {
             key={provider.id}
             className="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-all"
           >
+            {/* Provider Image */}
+            {provider.image && (
+              <div className="w-full h-48 overflow-hidden bg-gray-200">
+                <img 
+                  src={provider.image} 
+                  alt={provider.name}
+                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                  onError={(e) => {
+                    e.target.src = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="400" height="200"%3E%3Crect fill="%23e5e7eb" width="400" height="200"/%3E%3Ctext x="50%25" y="50%25" font-size="16" fill="%236b7280" text-anchor="middle" dy=".3em"%3EImage not available%3C/text%3E%3C/svg%3E';
+                  }}
+                />
+              </div>
+            )}
+
             {/* Provider Header */}
             <div className="p-6">
               <div className="flex justify-between items-start">

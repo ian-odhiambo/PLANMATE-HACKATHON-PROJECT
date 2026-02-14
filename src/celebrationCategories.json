@@ -12,7 +12,7 @@
     "title": "Birthday",
     "icon": "🎂",
     "description": "Celebrate another year in style",
-    "image": "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?w=1200&h=500&fit=crop",
+    "image": "https://plus.unsplash.com/premium_photo-1675881737813-6fbffe689c06?w=300&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGJpcnRoZGF5JTIwZXZlbnRzfGVufDB8fDB8fHww",
     "color": "from-purple-500 to-indigo-500"
   },
   {
@@ -46,5 +46,13 @@
     "description": "Honor academic achievements",
     "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=500&fit=crop",
     "color": "from-green-500 to-emerald-500"
+  },
+  {
+    "id": 7,
+    "title": "Custom",
+    "icon": "✨",
+    "description": "Design your unique event experience",
+    "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1200&h=500&fit=crop",
+    "color": "from-indigo-500 to-purple-500"
   }
 ]

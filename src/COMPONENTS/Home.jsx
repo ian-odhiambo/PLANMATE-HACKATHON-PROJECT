@@ -3,11 +3,7 @@ import { featuresData } from '../featuresData';
 
 import CardGrid from './HOMECARDS/CardGrid';
 import VerifiedVendors from './HOMECARDS/VerifiedVendors';
-// import TransparentPricing from './s/TransparentPricing';
-// import RealReviews from './s/RealReviews';
-// import SecurePayments from './s/SecurePayments';
-// import DirectCommunication from './s/DirectCommunication';
-// import EventDashboard from './s/EventDashboard';
+import SmartInvite from './HOMECARDS/SmartInvite';
 
 const Home = () => {
   const [selectedCard, setSelectedCard] = useState(null);
@@ -29,8 +25,8 @@ const Home = () => {
         return <TransparentPricing onBack={handleBackToHome} />;
       case 'real-reviews':
         return <RealReviews onBack={handleBackToHome} />;
-      case 'secure-payments':
-        return <SecurePayments onBack={handleBackToHome} />;
+      case 'smart-invite':
+        return <SmartInvite onBack={handleBackToHome} />;
       case 'direct-communication':
         return <DirectCommunication onBack={handleBackToHome} />;
       case 'event-dashboard':
@@ -46,7 +42,7 @@ const Home = () => {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Everything You Need in One Place
+            EVERTHING YOU NEED IN ONE PLACE
           </h1>
           <p className="text-xl text-gray-600">
             Planmate gives you all the tools to plan and execute the perfect event.

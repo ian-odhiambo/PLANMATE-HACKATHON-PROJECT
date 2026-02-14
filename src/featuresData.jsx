@@ -1,5 +1,5 @@
 // src/data/featuresData.js
-import { Shield, DollarSign, Star, CreditCard, MessageCircle, LayoutDashboard } from 'lucide-react';
+import { Shield, DollarSign, Star, Send, MessageCircle, LayoutDashboard } from 'lucide-react';
 
 export const featuresData = [
   {
@@ -34,13 +34,13 @@ export const featuresData = [
   },
   {
     id: 4,
-    slug: "secure-payments",
-    icon: <CreditCard className="w-8 h-8 text-amber-500" />,
-    iconName: "CreditCard",
-    title: "Secure Payments",
-    shortDesc: "Safe and secure payment processing.",
-    description: "Safe and secure payment processing. Your money is protected.",
-    badge: "Protected"
+    slug: "smart-invite",
+    icon: <Send className="w-8 h-8 text-amber-500" />,
+    iconName: "Send",
+    title: "Smart Invite",
+    shortDesc: "Invite guests with smart reminders and live tracking.",
+    description: "Send invites with automatic reminders, RSVP tracking, and location assistance.",
+    badge: "Smart"
   },
   {
     id: 5,

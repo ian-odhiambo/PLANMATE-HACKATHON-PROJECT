@@ -13,32 +13,32 @@
           "image": "https://images.unsplash.com/photo-1555244162-803834f70033?w=800&h=400&fit=crop",
           "rating": 4.8,
           "services": ["Wedding catering", "Corporate events", "Birthday parties", "Buffet setup"],
-          "pricing": "$$ - $$$",
-          "priceRange": "₦50,000 - ₦500,000",
+          "pricing": "$,KSH",
+          "priceRange": "KSH50,000 - KSH500,000",
           "contact": {
             "phone": "+234 801 234 5678",
             "whatsapp": "+234 801 234 5678",
             "email": "hello@deliciousbites.ng",
             "website": "www.deliciousbites.ng"
           },
-          "location": "Lagos, Nigeria",
+          "location": "Nairobi, Kenya",
           "yearsExperience": 8,
           "featured": true
         },
         {
           "id": 102,
           "name": "Sweet Tooth Bakery",
-          "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=400&fit=crop",
+          "image": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=800&h=400&fit=crop",
           "rating": 4.9,
           "services": ["Custom cakes", "Cupcakes", "Dessert tables", "Pastries"],
           "pricing": "$$",
-          "priceRange": "₦30,000 - ₦200,000",
+          "priceRange": "KSH30,000 - KSH200,000",
           "contact": {
             "phone": "+234 802 345 6789",
             "whatsapp": "+234 802 345 6789",
             "email": "orders@sweettooth.ng"
           },
-          "location": "Abuja, Nigeria",
+          "location": "Nairobi, Kenya",
           "yearsExperience": 5,
           "featured": true
         }
@@ -54,18 +54,18 @@
         {
           "id": 201,
           "name": "DreamCapture Studios",
-          "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=400&fit=crop",
+          "image": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?w=800&h=400&fit=crop",
           "rating": 4.9,
           "services": ["Wedding photography", "Pre-wedding shoots", "Event coverage", "Videography"],
-          "pricing": "$$$",
-          "priceRange": "₦150,000 - ₦800,000",
+          "pricing": "KSH",
+          "priceRange": "KSH150,000 - KSH800,000",
           "contact": {
             "phone": "+234 803 456 7890",
             "whatsapp": "+234 803 456 7890",
             "email": "info@dreamcapture.ng",
             "instagram": "@dreamcapture_ng"
           },
-          "location": "Lagos, Nigeria",
+          "location": "Nairobi, Kenya",
           "yearsExperience": 10,
           "featured": true
         }
@@ -81,17 +81,17 @@
         {
           "id": 301,
           "name": "Grand Palm Events",
-          "image": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&h=400&fit=crop",
+          "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=400&fit=crop",
           "rating": 4.7,
           "services": ["Wedding venues", "Conference halls", "Garden ceremonies", "Indoor/outdoor"],
-          "pricing": "$$$ - $$$$",
-          "priceRange": "₦300,000 - ₦2,000,000",
+          "pricing": "KSH - KSH$",
+          "priceRange": "KSH300,000 - KSH2,000,000",
           "contact": {
             "phone": "+234 804 567 8901",
             "whatsapp": "+234 804 567 8901",
             "email": "bookings@grandpalm.ng"
           },
-          "location": "Lagos, Nigeria",
+          "location": "Nairobi, Kenya",
           "yearsExperience": 15,
           "featured": true
         }
@@ -107,11 +107,11 @@
         {
           "id": 401,
           "name": "Perfect Plan Events",
-          "image": "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?w=800&h=400&fit=crop",
+          "image": "https://images.unsplash.com/photo-1505236858219-8359eb29e329?w=800&h=400&fit=crop",
           "rating": 4.9,
           "services": ["Full event planning", "Day-of coordination", "Vendor management", "Budget planning"],
-          "pricing": "$$$",
-          "priceRange": "₦200,000 - ₦1,000,000",
+          "pricing": "KSH",
+          "priceRange": "KSH200,000 - KSH1,000,000",
           "contact": {
             "phone": "+234 805 678 9012",
             "whatsapp": "+234 805 678 9012",
@@ -133,17 +133,17 @@
         {
           "id": 501,
           "name": "Luxury Rides NG",
-          "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=400&fit=crop",
+          "image": "https://images.unsplash.com/photo-1556189250-72ba954cfc2b?w=800&h=400&fit=crop",
           "rating": 4.6,
           "services": ["Luxury cars", "Buses", "Guest shuttles", "Wedding cars"],
-          "pricing": "$$ - $$$",
-          "priceRange": "₦80,000 - ₦400,000",
+          "pricing": "$$ - KSH",
+          "priceRange": "KSH80,000 - KSH400,000",
           "contact": {
             "phone": "+234 806 789 0123",
             "whatsapp": "+234 806 789 0123",
             "email": "rentals@luxuryrides.ng"
           },
-          "location": "Lagos, Nigeria",
+          "location": "Nairobi, Kenya",
           "yearsExperience": 4,
           "featured": false
         }
@@ -159,17 +159,17 @@
         {
           "id": 601,
           "name": "Pro Sound & Lights",
-          "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800&h=400&fit=crop",
+          "image": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=800&h=400&fit=crop",
           "rating": 4.7,
           "services": ["Sound systems", "Lighting", "Stages", "LED screens"],
-          "pricing": "$$ - $$$",
-          "priceRange": "₦100,000 - ₦600,000",
+          "pricing": "$$ - KSH",
+          "priceRange": "KSH100,000 - KSH600,000",
           "contact": {
             "phone": "+234 807 890 1234",
             "whatsapp": "+234 807 890 1234",
             "email": "info@prosound.ng"
           },
-          "location": "Lagos, Nigeria",
+          "location": "Nairobi, Kenya",
           "yearsExperience": 12,
           "featured": true
         }
@@ -185,11 +185,11 @@
         {
           "id": 701,
           "name": "Elegant Events Decor",
-          "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=400&fit=crop",
+          "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=800&h=400&fit=crop",
           "rating": 4.8,
           "services": ["Floral arrangements", "Table settings", "Backdrops", "Themed decor"],
-          "pricing": "$$ - $$$",
-          "priceRange": "₦120,000 - ₦550,000",
+          "pricing": "$$ - KSH",
+          "priceRange": "KSH120,000 - KSH550,000",
           "contact": {
             "phone": "+234 808 901 2345",
             "whatsapp": "+234 808 901 2345",
@@ -212,17 +212,17 @@
         {
           "id": 801,
           "name": "Melody Beats Entertainment",
-          "image": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=800&h=400&fit=crop",
+          "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&h=400&fit=crop",
           "rating": 4.8,
           "services": ["DJ services", "Live bands", "MCs", "Karaoke"],
-          "pricing": "$$ - $$$",
-          "priceRange": "₦80,000 - ₦350,000",
+          "pricing": "$$ - KSH",
+          "priceRange": "KSH80,000 - KSH350,000",
           "contact": {
             "phone": "+234 809 012 3456",
             "whatsapp": "+234 809 012 3456",
             "email": "bookings@melodybeats.ng"
           },
-          "location": "Lagos, Nigeria",
+          "location": "Nairobi, Kenya",
           "yearsExperience": 9,
           "featured": true
         }
@@ -242,14 +242,14 @@
           "rating": 4.9,
           "services": ["Bridal makeup", "Hairstyling", "Facials", "Group bookings"],
           "pricing": "$$",
-          "priceRange": "₦40,000 - ₦150,000",
+          "priceRange": "KSH40,000 - KSH150,000",
           "contact": {
             "phone": "+234 810 123 4567",
             "whatsapp": "+234 810 123 4567",
             "email": "bookings@glamourtouch.ng",
             "instagram": "@glamourtouch_ng"
           },
-          "location": "Lagos, Nigeria",
+          "location": "Nairobi, Kenya",
           "yearsExperience": 5,
           "featured": true
         }
@@ -268,15 +268,15 @@
           "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800&h=400&fit=crop",
           "rating": 4.7,
           "services": ["Wedding gowns", "Traditional attire", "Accessories", "Bridal party"],
-          "pricing": "$$$",
-          "priceRange": "₦150,000 - ₦800,000",
+          "pricing": "KSH",
+          "priceRange": "KSH150,000 - KSH800,000",
           "contact": {
             "phone": "+234 811 234 5678",
             "whatsapp": "+234 811 234 5678",
             "email": "hello@bridalcouture.ng",
             "instagram": "@bridalcouture_ng"
           },
-          "location": "Lagos, Nigeria",
+          "location": "Nairobi, Kenya",
           "yearsExperience": 11,
           "featured": true
         }
@@ -296,13 +296,13 @@
           "rating": 4.6,
           "services": ["VIP protection", "Crowd control", "Baggage check", "24/7 security"],
           "pricing": "$$",
-          "priceRange": "₦60,000 - ₦250,000",
+          "priceRange": "KSH60,000 - KSH250,000",
           "contact": {
             "phone": "+234 812 345 6789",
             "whatsapp": "+234 812 345 6789",
             "email": "info@secureguard.ng"
           },
-          "location": "Lagos, Nigeria",
+          "location": "Nairobi, Kenya",
           "yearsExperience": 7,
           "featured": false
         }
@@ -318,11 +318,11 @@
         {
           "id": 1201,
           "name": "Unique Events Services",
-          "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&h=400&fit=crop",
+          "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=400&fit=crop",
           "rating": 4.5,
           "services": ["Party rentals", "Photo booths", "Face painting", "Balloon artists"],
           "pricing": "$ - $$",
-          "priceRange": "₦20,000 - ₦100,000",
+          "priceRange": "KSH20,000 - KSH100,000",
           "contact": {
             "phone": "+234 813 456 7890",
             "whatsapp": "+234 813 456 7890",

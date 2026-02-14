@@ -9,12 +9,12 @@ const CelebrationCarousel = ({ category }) => {
   const carouselImages = [
     {
       id: 1,
-      url: `https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&h=500&fit=crop`,
+      url: `https://media.istockphoto.com/id/180772775/photo/fancy-outdoor-party-tent.webp?a=1&b=1&s=612x612&w=0&k=20&c=0Q3kHG1yFB0RJU1R9t4FQ_USE6XKBK9KoY0Jbf8kM0E=`,
       title: `${category.title} Venue 1`
     },
     {
       id: 2,
-      url: `https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=1200&h=500&fit=crop`,
+      url: `https://plus.unsplash.com/premium_photo-1664530452329-42682d3a73a7?w=300&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dmVudWVzfGVufDB8fDB8fHww`,
       title: `${category.title} Venue 2`
     },
     {
@@ -25,6 +25,12 @@ const CelebrationCarousel = ({ category }) => {
     {
       id: 4,
       url: `https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=1200&h=500&fit=crop`,
+      title: `${category.title} Venue 4`
+    }
+    ,
+    {
+      id: 5,
+      url: `https://media.istockphoto.com/id/2156170493/photo/beautifully-decorated-restaurant-hall-for-celebrating-a-birthday-wedding-party.webp?a=1&b=1&s=612x612&w=0&k=20&c=0bsOQz6N7sZEDdHXfq6_sXX-n5L1P-NyTmjb0r1A58U=`,
       title: `${category.title} Venue 4`
     }
   ];
